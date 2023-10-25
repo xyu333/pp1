@@ -1,0 +1,12 @@
+number = bin(304)
+print(f"b.	binary string representing decimal number 304 is {number}")
+#task c
+number1=hex(304)
+print(f"c.	hexadecimal string representing decimal number 304 is {number1}")
+#task d
+sign = ord('€')
+print(f"d. integer representing the Unicode code of the € sign is {sign}")
+#task e
+number2=abs(-17)
+print(f"e.	absolute value of -17 is {number2}")
+
